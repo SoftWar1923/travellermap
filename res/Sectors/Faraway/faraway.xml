@@ -1211,23 +1211,24 @@
   </Sector>
 
   <Sector Tags="Faraway">
-    <X>60</X>
-    <Y>60</Y>
+    <X>160</X>
+    <Y>10</Y>
     <Name Author="Ed &quot;Dalthor Et Magera&quot; Anderson">Varan</Name>
     <DataFile Author="Ed &quot;Dalthor Et Magera&quot; Anderson" Type="SecondSurvey">Varan.t5</DataFile>
     <MetadataFile Author="Ed &quot;Dalthor Et Magera&quot; Anderson">Varan.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Faraway Alternate" Abbreviation="JZBe" Label="The Beyond">
-    <X>70</X>
-    <Y>70</Y>
+    <X>160</X>
+    <Y>20</Y>
     <Name>The Beyond (Jeff Zeitlin)</Name>
     <DataFile>beyond.sec</DataFile>
     <MetadataFile>Zeitlin Beyond.xml</MetadataFile>
   </Sector>
+
   <Sector Tags="Apocryphal">
-    <X>70</X>
-    <Y>60</Y>
+    <X>160</X>
+    <Y>30</Y>
     <Name>Precipice</Name>
     <Subsectors>
       <Subsector Index="A">Precipice</Subsector>
